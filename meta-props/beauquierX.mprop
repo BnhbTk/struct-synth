@@ -1,0 +1,2 @@
+//# Pmin=1 [ F num_tokens=1 {"init"}{min} ] cost 20000
+//#min Rmax=?  [ F num_tokens=1 {"init"}{max} ] cost 1
