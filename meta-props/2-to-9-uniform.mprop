@@ -1,0 +1,7 @@
+//# const maxS=40;
+//# const h=9;
+//# var g:[1..$h];
+
+//# for{any(g)} P=1/$h [ F s=$maxS&d=$g ] cost 2000
+//# P=1 [F s=$maxS ] cost 2000
+//# min R=? [F s=$maxS ] cost 1
