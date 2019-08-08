@@ -1,3 +1,4 @@
+//this is the file for the problem "2-to-5-uniform"
 //# const maxS=13;
 //# const h=5;
 //# var g:[1..$h];
