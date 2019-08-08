@@ -1,3 +1,7 @@
+//this is the meta-model for 2-to-6-uniform, but it can also be used for "binom-6-0.5" and "binom-6-0.333", just the value
+//of maxS must be increased to 30 because the generated models contain much more states than the one generated
+//for 2-to-6-uniform
+
 dtmc
 
 //# const maxS=13;
