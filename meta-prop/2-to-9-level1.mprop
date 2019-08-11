@@ -1,0 +1,7 @@
+//this is the same file for the first level of the problems "2-to-9-mdp" and "binom-6-0.333-mdp"
+//# const maxS=7;
+//# const h=3;
+//# var g:[1..$h];
+
+//# for{any(g)} P=1/$h [ F s=$maxS&d=$g ] cost 2000
+//# min R=? [F s=$maxS ] cost 1
