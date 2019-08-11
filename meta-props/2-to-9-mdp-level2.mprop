@@ -1,0 +1,6 @@
+//# const maxT=30;
+//# const h=9;
+//# var g:[1..$h];
+
+//# for{any(g)} Pmin=1/$h [ F t=$maxT & e=$g ] cost 2000
+//# min Rmin=? [ F t=$maxT ] cost 1
