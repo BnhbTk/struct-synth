@@ -3,5 +3,4 @@
 //# var k:[0..$n];
 
 //# for{any(k)} Pmin=$n!/(($n-$k)!*$k!)*(1/3)^$k*(1-1/3)^($n-$k) [ F t=$maxT & e=$k+1 ] cost 2000+if($k=5,1,0)*6000
-//# Pmin=1 [ F t=$maxT] cost 2000
 //# min Rmin=? [ F t=$maxT ] cost 1
