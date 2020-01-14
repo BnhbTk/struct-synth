@@ -1,0 +1,11 @@
+//# const maxS=13;
+//# const maxT=30;
+//# const h=6;
+//# var g:[1..$h];
+
+//# for{g<$h} impose value(Pmin=? [ F t=$maxT&e=$g ] - Pmin=? [ F t=$maxT&e=$g+1 ])>0.02 cost 10000
+//# Pmin>0.1 [ F t=$maxT&e=6 ] cost 10000
+//# for{any(g)} Pmin=1/$h [ F s=$maxS&d=$g ] cost 2000
+
+//# max Pmin=? [ F s=$maxS&t=$maxT&d<e ] cost 100
+//# min Rmax=? [F s=$maxS&t=$maxT ] cost 1
