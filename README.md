@@ -1,11 +1,11 @@
-# Repository of the meta-models, meta-properties and models
-This is a repository containing meta-models and meta-properties of meta-models models for the publication : 
+# Repository of meta-models and meta-properties used for structural synthesis of optimal probabilistic models
+This repository contains the meta-models (expressed in META-PRISM language) and the meta-properties used in the publication : 
 
-Toufik Benouhiba, *A Multi-Level Refinement For Structural Synthesis Of Optimal Probabilistic Models*. Fundamenta Informaticae, to appear (in 2021).
+Toufik Benouhiba, *A Multi-level Refinement Approach for Structural Synthesis of Optimal Probabilistic Models*. Fundamenta Informaticae, to appear (2021).
 
 It contains also some figures of the obtained models :
-- The folder meta-models contains the META-PRISM code of the problems
+- The **meta-models** folder includes the source code for the problems being addressed in the paper: these meta-models are written in the META-PRISM language, which defines the structural constraints of the desired models at different abstraction levels. 
 
-- The folder meta-props contains the the meta-properties of the meta-models
+- The folder **meta-props** contains the the meta-properties of the meta-models : a meta-property is either a formal property or a restriction on it at any level of abstraction. 
 
-- The folder models contains some of the synthesized models
+- The folder **models** contains some of the synthesized models : the synthesized models are [PRISM] (http://www.prismmodelchecker.org) probabilistic models that comply with a set of formal properties and optimize another set of formal properties.
