@@ -1,7 +1,7 @@
 # Repository of meta-models and meta-properties used for structural synthesis of optimal probabilistic models
 This repository contains the meta-models (expressed in META-PRISM language) and the meta-properties used in the publication : 
 
-Toufik Benouhiba, *A Multi-level Refinement Approach for Structural Synthesis of Optimal Probabilistic Models*. Fundamenta Informaticae, to appear (2021).
+> Toufik Benouhiba, *A Multi-level Refinement Approach for Structural Synthesis of Optimal Probabilistic Models*. Fundamenta Informaticae, to appear (2021).
 
 It contains also some figures of the obtained models :
 - The **meta-models** folder includes the source code for the problems being addressed in the paper: these meta-models are written in the META-PRISM language, which defines the structural constraints of the desired models at different abstraction levels. 
